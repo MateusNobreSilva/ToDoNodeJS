@@ -1,4 +1,4 @@
-const TaskModel = required('../model/TaskModel');
+const TaskModel = require('../model/TaskModel');
 
 class TaskController {
 
